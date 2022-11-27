@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "google sans";
+  src: url(../../fonts/google_sans.ttf);
+}
+
+@font-face {
+  font-family: "google sans bold";
+  font-weight: bold;
+  src: url(../../fonts/google_sans_bold.ttf);
+}
+
+article footer {
+  text-align: left;
+}
+
+body footer {
+  background: #42445A;
+  text-align: center;
+  color: #9C9EB6;
+}
+body footer a {
+  color: inherit;
+  text-decoration: underline;
+  background: inherit;
+}
